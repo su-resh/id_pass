@@ -1,0 +1,22 @@
+[
+    {
+        "id": "user123",
+        "password": "securePassword123!"
+    },
+    {
+        "id": "alice456",
+        "password": "aL!ceSecure987"
+    },
+    {
+        "id": "bob789",
+        "password": "B0b_Passw0rd!"
+    },
+    {
+        "id": "charlie101",
+        "password": "Ch@rliePass101"
+    },
+    {
+        "id": "dave202",
+        "password": "D@ve202Safe"
+    }
+]
